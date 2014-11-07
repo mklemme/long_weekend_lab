@@ -16,7 +16,7 @@ Here are a few popular libraries and technologies to check out as you start to t
 - [paper.js](http://paperjs.org/)
 - [canvas](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial)
 - [css animations](http://www.justinaguilar.com/animations/#)
-- css3 transitions - [MDN guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions) and [an excellent tutorial](http://www.adobe.com/devnet/html5/articles/using-css3-transitions-a-comprehensive-guide.html)
+- css3 transitions - [MDN guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions)
 
 - Looking for something specific? Search [here](http://www.jsdb.io/?sort=rating) 
 
